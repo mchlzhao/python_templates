@@ -1,3 +1,4 @@
+# AIO 2015: Wet Chairs
 # Opening input and output files
 fileIn = open('chairsin.txt', 'r')
 fileOut = open('chairsout.txt', 'w')
