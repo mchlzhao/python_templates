@@ -1,3 +1,4 @@
+# Starter Problems 1: Addition
 # Opening input and output files
 fileIn = open('addin.txt', 'r')
 fileOut = open('addout.txt', 'w')
