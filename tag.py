@@ -1,3 +1,4 @@
+# AIO 2017: Tag
 # Opening the input and output files
 fileIn = open('tagin.txt', 'r')
 fileOut = open('tagout.txt', 'w')
