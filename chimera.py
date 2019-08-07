@@ -1,3 +1,4 @@
+# AIO 2017: Chimera II
 # Opening input and output files
 fileIn = open('chimin.txt', 'r')
 fileOut = open('chimout.txt', 'w')
