@@ -5,8 +5,10 @@ fileOut = open('cavalryout.txt', 'w')
 # Reading in the input file
 # - N is the number of knights
 # - A is a list of the sizes of squad each knight requires
-A = list(map(int, fileIn.readlines()))
-N, A = A[0], A[1:]
+N = int(fileIn.readline())
+A = []
+for i in range(N):
+    A.append(int(fileIn.readline()))
 
 # Store whether it is possible in the following variable
 answer = True
